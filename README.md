@@ -82,7 +82,9 @@ Files:
 - Created a Social Media Do’s and Don’ts checklist  
 
  Files:  
-- `task-4-email-etiquette/emails.txt`  
+- `task-4-email-etiquette/emails.txt`
+- <img width="572" height="925" alt="image" src="https://github.com/user-attachments/assets/46f7e179-f83d-4b4b-a588-21fb0301a67f" />
+ 
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
 
