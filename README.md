@@ -33,16 +33,21 @@ This project helped me understand how to use digital tools effectively, maintain
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
  Files:  
-- `task-2-
+- task-2-
 
-- <img width="1889" height="1054" alt="Screenshot 2026-03-24 224528" src="https://github.com/user-attachments/assets/0b607cdd-576d-49e1-80a1-62207de96023" />
+-<img width="1910" height="1019" alt="Screenshot 2026-03-24 225704" src="https://github.com/user-attachments/assets/830698b0-00f0-45d2-8204-2aae14749444" />
+
  
-- `task-2-
+- task-2-
 
--/
+- <img width="1889" height="1054" alt="Screenshot 2026-03-24 224528" src="https://github.com/user-attachments/assets/88410bc2-0ba1-419f-abe0-e029abce5ff3" />
 
 
-- `task-2-portfolio/kaggle.png`  
+
+- task-2
+
+- <img width="1891" height="937" alt="Screenshot 2026-03-24 231256" src="https://github.com/user-attachments/assets/8ae87bd3-2c60-4d17-a98c-d777b1142af7" />
+
 
 
 
@@ -55,12 +60,18 @@ Part A – Coding Platform
 - Created a Digital Literacy Awareness Quiz with 5 questions  
 - Collected responses using Google Sheets  
 
- Google Form Link: [Paste your link here]
+ Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScj8FyOpRbPXMz8keD29NaBOq989gcm3bI1kKoP36f_0KNFvg/viewform?usp=publish-editor
 
 Files:  
-- `task-3-platforms/hackerrank.png`  
-- `task-3-platforms/google-form.png`  
-- `task-3-platforms/responses.png`  
+- task-3-
+- <img width="1897" height="1033" alt="Screenshot 2026-03-24 234514" src="https://github.com/user-attachments/assets/c86a5d71-60b4-496e-92e9-27ce5de3b551" />
+ 
+- task-3-
+- https://docs.google.com/forms/d/e/1FAIpQLScj8FyOpRbPXMz8keD29NaBOq989gcm3bI1kKoP36f_0KNFvg/viewform?usp=publish-editor
+  
+- task-3-
+- <img width="1597" height="1075" alt="Screenshot 2026-03-25 000800" src="https://github.com/user-attachments/assets/c8ceb1f1-5792-4540-a429-e4c793bf7090" />
+
 
 
 
