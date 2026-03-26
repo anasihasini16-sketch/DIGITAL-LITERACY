@@ -33,8 +33,15 @@ This project helped me understand how to use digital tools effectively, maintain
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
  Files:  
-- `task-2-portfolio/github.png`  
-- `task-2-portfolio/linkedin.png`  
+- `task-2-
+
+- <img width="1889" height="1054" alt="Screenshot 2026-03-24 224528" src="https://github.com/user-attachments/assets/0b607cdd-576d-49e1-80a1-62207de96023" />
+ 
+- `task-2-
+
+-/
+
+
 - `task-2-portfolio/kaggle.png`  
 
 
