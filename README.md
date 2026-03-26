@@ -13,7 +13,7 @@ Project Overview
 This project is created as part of the Digital Literacy course. The objective of this project is to develop essential digital skills required for students in today’s world. As a Student Digital Ambassador, I worked on multiple tasks that focus on digital awareness, online safety, professional communication, and use of modern digital platforms.  
 
 This project helped me understand how to use digital tools effectively, maintain a professional online presence, communicate responsibly, and stay safe from cyber threats.
-
+...
 
  Task 1 – Digital Literacy Infographic
 - Tool Used: Canva  
