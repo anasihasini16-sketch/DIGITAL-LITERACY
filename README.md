@@ -64,13 +64,15 @@ Part A – Coding Platform
 
 Files:  
 - task-3-
-- <img width="1897" height="1033" alt="Screenshot 2026-03-24 234514" src="https://github.com/user-attachments/assets/c86a5d71-60b4-496e-92e9-27ce5de3b551" />
- 
+- <img width="1597" height="1075" alt="Screenshot 2026-03-25 000800" src="https://github.com/user-attachments/assets/bf56e69f-045c-43b4-b43f-2a7f12920ebe" />
+
 - task-3-
 - https://docs.google.com/forms/d/e/1FAIpQLScj8FyOpRbPXMz8keD29NaBOq989gcm3bI1kKoP36f_0KNFvg/viewform?usp=publish-editor
+- <img width="572" height="925" alt="Screenshot 2026-03-26 194746" src="https://github.com/user-attachments/assets/24cea13b-ca7b-41ff-8cb6-7469f958addc" />
+
   
 - task-3-
-- <img width="1597" height="1075" alt="Screenshot 2026-03-25 000800" src="https://github.com/user-attachments/assets/c8ceb1f1-5792-4540-a429-e4c793bf7090" />
+- <img width="1906" height="289" alt="Screenshot 2026-03-26 184841" src="https://github.com/user-attachments/assets/7596386a-5466-4c2c-8036-f12ccab5869d" />
 
 
 
