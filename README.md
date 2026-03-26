@@ -83,9 +83,11 @@ Files:
 
  Files:  
 - `task-4-email-etiquette/emails.txt`
-- <img width="572" height="925" alt="image" src="https://github.com/user-attachments/assets/46f7e179-f83d-4b4b-a588-21fb0301a67f" />
+- 
+  
  
-- `task-4-email-etiquette/social-media-checklist.txt`  
+- `task-4-email-etiquette/social-media-checklist.txt`
+- https://github.com/anasihasini16-sketch/DIGITAL-LITERACY/blob/main/TASK%204%20-SOCIAL%20MEDIA%20CHECKLIST.txt
 
 
 
