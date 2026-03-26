@@ -7,7 +7,7 @@ Branch: INTEGRATED MTECH AI
 Year: 1st Year INTEGRATED MTECH 
 Course Code: CSE0001  
 
-
+...
 
 Project Overview
 This project is created as part of the Digital Literacy course. The objective of this project is to develop essential digital skills required for students in today’s world. As a Student Digital Ambassador, I worked on multiple tasks that focus on digital awareness, online safety, professional communication, and use of modern digital platforms.  
